@@ -1,6 +1,4 @@
-🚗 FastALPR Setup + Streamlit App
-1. Clone the Repo
-git clone https://github.com/ankandrew/fast-alpr.git
+
 cd fast-alpr
 
 2. Install Dependencies
